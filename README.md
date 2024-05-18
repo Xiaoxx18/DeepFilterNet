@@ -1,4 +1,4 @@
-# DeepFiterNet
+# DeepFilterNet
 deepfilternet是一个特别优异的语音增强（Speech Enhancement）方法，他具有较低的参数和计算复杂度，具体代码作者已开源，但其中erb_fb、unit_norm、erb_norm、erb_widths等模块使用Rust实现，可能不太方便，因此本项目提供pytorch和C++实现，特别感谢原作者开源rust实现以及他们这么好的研究成果
 
 ## 说明
